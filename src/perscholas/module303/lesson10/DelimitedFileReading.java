@@ -47,7 +47,7 @@ class Course {  // Example Two
 public class DelimitedFileReading {
 
 	public static void main(String[] args) throws FileNotFoundException {
-		//exampleOne();
+		exampleOne();
 		exampleTwo();
 	}
 	
